@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Андрей",
+        "quizes":0,
+        "total_questions":0,
+        "answered_questions":0
+    },
+    {
+        "name":"Дядя Саша",
+        "quizes":1,
+        "total_questions":5,
+        "answered_questions":5
+    },
+    {
+        "name":"Вася Пупкин",
+        "quizes":2,
+        "total_questions":11,
+        "answered_questions":8
+    }
+]
